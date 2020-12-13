@@ -1,0 +1,300 @@
+{
+
+    "categories": [{
+        "id": 1,
+        "name": "Laptops"
+    },{
+        "id": 2,
+        "name": "Mobiles"
+    },{
+        "id": 3,
+        "name": "Speakers"
+    }
+    ],
+    
+    "products": [
+        {
+          "categoryId":1,
+           "id": 1, 
+          "name": "Dell Inspiron R 1564", 
+          "imageUrl": "assets/images/dell.jpg"
+        },
+        { 
+            "categoryId":1,
+            "id": 2, 
+            "name": "Lenovo IdeaPad S145", 
+            "imageUrl": "assets/images/laptop_lenovo.jpg"
+        },
+        { 
+            "categoryId":1,
+            "id": 3, 
+            "name": "HP Pavilion 15s-du1034tu - Intel Core i5", 
+            "imageUrl": "assets/images/hp-laptop.png"
+        },
+        { 
+            "categoryId":1,
+            "id": 4, 
+            "name": "Asus Vivobook X509JA-BQ840T i5-1035G1//8G", 
+            "imageUrl": "assets/images/asus.jpg"
+        },
+        {
+            "categoryId":1,
+             "id": 5, 
+            "name": "Dell Inspiron R 1564", 
+            "imageUrl": "assets/images/dell.jpg"
+          },
+          { 
+              "categoryId":1,
+              "id": 6, 
+              "name": "Lenovo IdeaPad S145", 
+              "imageUrl": "assets/images/laptop_lenovo.jpg"
+          },
+          { 
+              "categoryId":1,
+              "id": 7, 
+              "name": "HP Pavilion 15s-du1034tu - Intel Core i5", 
+              "imageUrl": "assets/images/hp-laptop.png"
+          },
+          { 
+              "categoryId":1,
+              "id": 8, 
+              "name": "Asus Vivobook X509JA-BQ840T i5-1035G1//8G", 
+              "imageUrl": "assets/images/asus.jpg"
+          },
+          {
+            "categoryId":1,
+             "id": 9, 
+            "name": "Dell Inspiron R 1564", 
+            "imageUrl": "assets/images/dell.jpg"
+          },
+          {
+            "categoryId":2,
+             "id": 1, 
+            "name": "Lava Z- 66", 
+            "imageUrl": "assets/images/lava.jpg"
+          },
+          {
+            "categoryId":2,
+             "id": 2, 
+            "name": "Oppo A3", 
+            "imageUrl": "assets/images/oppo.jpg"
+          },
+          {
+            "categoryId":2,
+             "id": 3, 
+            "name": "Mi A 3", 
+            "imageUrl": "assets/images/mi-a3.jpg"
+          },
+
+          {
+            "categoryId":2,
+             "id": 4, 
+            "name": "Samsung A 31", 
+            "imageUrl": "assets/images/samsung_b31.jpeg"
+          },
+          {
+            "categoryId":2,
+             "id": 5, 
+            "name": "Nokia B", 
+            "imageUrl": "assets/images/nokia.jpg"
+          },
+          {
+            "categoryId":2,
+             "id": 6, 
+            "name": "One plus 7 T", 
+            "imageUrl": "assets/images/oneplus.jpg"
+          },
+          {
+            "categoryId":2,
+             "id": 7, 
+            "name": "Lenovo", 
+            "imageUrl": "assets/images/oppo.jpg"
+          },
+          {
+            "categoryId":3,
+             "id": 1, 
+            "name": "Boat Stone 210", 
+            "imageUrl": "assets/images/boat.png"
+          },
+          {
+            "categoryId":3,
+             "id": 2, 
+            "name": "Boat Stone 650 10W Speaker", 
+            "imageUrl": "assets/images/boat-stone-650-black_540x.jpg"
+          },
+          {
+            "categoryId":3,
+             "id": 3, 
+            "name": "JBL Flip 3",
+            "imageUrl": "assets/images/jbl-flip3-speaker.png"
+          },
+          {
+            "categoryId":3,
+             "id": 4, 
+            "name": "MIVI", 
+            "imageUrl": "assets/images/mivi1.png"
+          },
+          {
+            "categoryId":3,
+             "id": 5, 
+            "name": "Potronics", 
+            "imageUrl": "assets/images/speakers.jpg"
+          }
+    ],
+
+    "productDetails": [{
+        "categoryId": 1,
+        "id": 1, 
+        "name": "Dell Inspiron R 1564", 
+        "imageUrl": "assets/images/dell.jpg",
+        "description": " 10th Generation Intel Core i3-1005G1 \n \r\n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English (Dell recommends Windows 10 Pro for business)\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive \r\n Color: sBlack color cover for non-touch LCD"
+    },{
+        "categoryId": 1,
+        "id": 2, 
+        "name": "Lenovo IdeaPad S145", 
+        "imageUrl": "assets/images/laptop_lenovo.jpg",
+        "description": "Product description : 10th Generation Intel Core i3-1005G1 \n \r\n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English (Lenovo recommends Windows 10 Pro for business)\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive \r\n Color: sBlack color cover for non-touch LCD"        
+    },
+   
+      { 
+        "categoryId":1,
+        "id": 3, 
+        "name": "HP Pavilion 15s-du1034tu - Intel Core i5", 
+        "imageUrl": "assets/images/hp-laptop.png",
+        "description": "10th Generation Intel Core i3-1005G1 \n \r\n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English (HP recommends Windows 10 Pro for business)\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive \r\n Color: sBlack color cover for non-touch LCD"
+    },
+    { 
+        "categoryId":1,
+        "id": 4, 
+        "name": "Asus Vivobook X509JA-BQ840T i5-1035G1//8G", 
+        "imageUrl": "assets/images/asus.jpg",
+        "description":"10th Generation Intel Core i3-1005G1 \n \r\n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English (Asus recommends Windows 10 Pro for business)\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive \r\n Color: sBlack color cover for non-touch LCD"
+    },
+    {
+        "categoryId":1,
+         "id": 5, 
+        "name": "Dell Inspiron R 1564", 
+        "imageUrl": "assets/images/dell.jpg",
+        "description": " 10th Generation Intel Core i3-1005G1 \n\r\n Processor (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English (Dell recommends Windows 10 Pro for business)\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory: 4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive \r\n Color: Black color cover for non-touch LCD"
+      },
+      { 
+          "categoryId":1,
+          "id": 6, 
+          "name": "Lenovo IdeaPad S145", 
+          "imageUrl": "assets/images/laptop_lenovo.jpg",
+          "description":"10th Generation Intel Core i3-1005G1 \n \r\n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English (Lenovo recommends Windows 10 Pro for business)\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive \r\n Color: sBlack color cover for non-touch LCD"
+      },
+      { 
+          "categoryId":1,
+          "id": 7, 
+          "name": "HP Pavilion 15s-du1034tu - Intel Core i5", 
+          "imageUrl": "assets/images/hp-laptop.png",
+          "description": "10th Generation Intel Core i3-1005G1 \n \r\n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English (HP recommends Windows 10 Pro for business)\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive \r\n Color: sBlack color cover for non-touch LCD"
+      },
+      { 
+          "categoryId":1,
+          "id": 8, 
+          "name": "Asus Vivobook X509JA-BQ840T i5-1035G1//8G", 
+          "imageUrl": "assets/images/asus.jpg",
+          "description" : "10th Generation Intel Core i3-1005G1 \n \r\n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English (Asus recommends Windows 10 Pro for business)\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive \r\n Color: sBlack color cover for non-touch LCD"
+      },
+     
+      {
+        "categoryId":1,
+         "id": 9, 
+        "name": "Dell Inspiron R 1564", 
+        "imageUrl": "assets/images/dell.jpg",
+        "description": "Product description : 10th Generation Intel Core i3-1005G1 \n \r\n Processor: (4MB Cache, up to 3.4 GHz) \r\n Laptop : Windows 10 Home Single Language, English (Dell recommends Windows 10 Pro for business)\r\n Videocard: Intel UHD Graphics with shared graphics memory \r\n Memory:  4GB, 4Gx1, DDR4, 2666MHz \r\n Harddrive: 1TB 5400 rpm 2.5inch SATA Hard Drive \r\n Color: sBlack color cover for non-touch LCD"        
+      },        
+     
+          
+      {
+        "categoryId":2,
+         "id": 1, 
+        "name": "Lava Z- 66", 
+        "imageUrl": "assets/images/lava.jpg",
+        "description": " Product description : \n Model: Lava Z - 66  \n \r\n CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Display Screen ratio: 93.4% (VA) / 92.1% (AA), TÜV Rheinland Low Blue Light Certification \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
+      },
+      {
+        "categoryId":2,
+         "id": 2, 
+        "name": "Oppo A3", 
+        "imageUrl": "assets/images/oppo.jpg",
+        "description": " Product description : \n Model: Oppo A3 \n\r\n CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Display Screen ratio: 93.4% (VA) / 92.1% (AA), TÜV Rheinland Low Blue Light Certification \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM cards"        
+      },
+      {
+        "categoryId":2,
+         "id": 3, 
+        "name": "Mi A 3", 
+        "imageUrl": "assets/images/mi-a3.jpg",
+        "description": " Product description : \n Model: Mi A 3 \n\r\n CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Display Screen ratio: 93.4% (VA) / 92.1% (AA), TÜV Rheinland Low Blue Light Certification \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"        
+      },
+      {
+        "categoryId":2,
+         "id": 4, 
+        "name": "Samsung A 31", 
+        "imageUrl": "assets/images/samsung_b31.jpeg",
+        "description" : " Product description : \n Model: Samsung A31 \n\r\n CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Display Screen ratio: 93.4% (VA) / 92.1% (AA), TÜV Rheinland Low Blue Light Certification \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
+      },
+      {
+        "categoryId":2,
+         "id": 5, 
+        "name": "Nokia B", 
+        "imageUrl": "assets/images/nokia.jpg",
+        "description":" Product description : \n Model: Nokia B \n\r\n CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Display Screen ratio: 93.4% (VA) / 92.1% (AA), TÜV Rheinland Low Blue Light Certification \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
+      },
+      {
+        "categoryId":2,
+         "id": 6, 
+        "name": "One plus 7 T", 
+        "imageUrl": "assets/images/oneplus.jpg",
+        "description" :" Product description : \n Model: Oneplus 7 T \n\r\n CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Display Screen ratio: 93.4% (VA) / 92.1% (AA), TÜV Rheinland Low Blue Light Certification \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
+      },
+      {
+        "categoryId":2,
+         "id": 7, 
+        "name": "Lenovo", 
+        "imageUrl": "assets/images/oppo.jpg",
+        "description":" Product description : \n Model: Lenovo \n\r\n CPU model: Qualcomm Snapdragon 765G (7nm process) \r\n CPU frequency: up to 2.4GHz Processor bits: 64-bit \r\n GPU model: Adreno 620 \n Battery capacity: 4025mAh (typical) \r\n Display Screen ratio: 93.4% (VA) / 92.1% (AA), TÜV Rheinland Low Blue Light Certification \r\n Rear camera 48 million + 13 million + 8 million + 2 million zoom quad camera system \r\n Front camera: 32 megapixel beauty selfie\r\n Dual card : Nano-SIM card / Nano-USIM card"
+      },
+
+      {
+        "categoryId":3,
+         "id": 1, 
+        "name": "Boat Stone 210", 
+        "imageUrl": "assets/images/boat.png",
+        "description": " Product description : \n Model: Boat Stone 210  \n \n Sound: 3W Output \n Battery Backup:  8 hours \r\n Bluetooth v4.2 with 10m range; Audio Input via AUX & SD Card \r\n Memory Card Slot  \n Battery Capacity of 1800mAh delivering a playback time of up to 7 hours (60% volume); \n Full Charge in about 2.5 hours IPX5 marked water & dust resistant \n  1 Mic for receiving calls \n Other Inclusions: AUX Cable, Micro USB Charging Cable, Warranty Card, User Manual \n  Stylish Portable Design"
+      },
+
+      {
+        "categoryId":3,
+         "id": 2, 
+         "name": "Boat Stone 650 10W Speaker",  
+         "imageUrl": "assets/images/boat-stone-650-black_540x.jpg",
+         "description":" Product description : \n Model: Boat Stone 650 10W \n \n Sound: 10W RMS Stereo Output \n Battery Backup:  8 hours \r\n Bluetooth v4.2 with 10m range; Audio Input via AUX & SD Card \r\n Memory Card Slot  \n Battery Capacity of 1800mAh delivering a playback time of up to 7 hours (60% volume); \n Full Charge in about 2.5 hours IPX5 marked water & dust resistant \n  1 Mic for receiving calls \n Other Inclusions: AUX Cable, Micro USB Charging Cable, Warranty Card, User Manual \n  Stylish Portable Design"
+         
+      },
+      {
+        "categoryId":3,
+         "id": 3, 
+        "name": "JBL Flip 3",
+        "imageUrl": "assets/images/jbl-flip3-speaker.png",
+        "description" :" Product description : \n Model: JBL Flip 3  \n \n Sound: 10W RMS Stereo Output \n Battery Backup:  8 hours \r\n Bluetooth v4.2 with 10m range; Audio Input via AUX & SD Card \r\n Memory Card Slot  \n Battery Capacity of 1800mAh delivering a playback time of up to 7 hours (60% volume); \n Full Charge in about 2.5 hours IPX5 marked water & dust resistant \n  1 Mic for receiving calls \n Other Inclusions: AUX Cable, Micro USB Charging Cable, Warranty Card, User Manual \n  Stylish Portable Design"
+      },
+      {
+        "categoryId":3,
+         "id": 4, 
+        "name": "MIVI", 
+        "imageUrl": "assets/images/mivi1.png",
+        "description" :" Product description : \n Model: MIVI  \n \n Sound: 10W RMS Stereo Output \n Battery Backup:  8 hours \r\n Bluetooth v4.2 with 10m range; Audio Input via AUX & SD Card \r\n Memory Card Slot  \n Battery Capacity of 1800mAh delivering a playback time of up to 7 hours (60% volume); \n Full Charge in about 2.5 hours IPX5 marked water & dust resistant \n  1 Mic for receiving calls \n Other Inclusions: AUX Cable, Micro USB Charging Cable, Warranty Card, User Manual \n  Stylish Portable Design"
+      },
+      {
+        "categoryId":3,
+         "id": 5, 
+        "name": "Potronics", 
+        "imageUrl": "assets/images/speakers.jpg",
+        "description":" Product description : \n Model: Potronics  \n \n Sound: 10W RMS Stereo Output \n Battery Backup:  8 hours \r\n Bluetooth v4.2 with 10m range; Audio Input via AUX & SD Card \r\n Memory Card Slot  \n Battery Capacity of 1800mAh delivering a playback time of up to 7 hours (60% volume); \n Full Charge in about 2.5 hours IPX5 marked water & dust resistant \n  1 Mic for receiving calls \n Other Inclusions: AUX Cable, Micro USB Charging Cable, Warranty Card, User Manual \n  Stylish Portable Design"
+    
+      }
+]
+}
