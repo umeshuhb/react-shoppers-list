@@ -49,7 +49,8 @@ const Home = (props)=>{
         
        };
 
-    const shoppingURL = 'http://localhost:3301';
+    //const shoppingURL = 'http://localhost:3001';
+    const shoppingURL = 'https://my-json-server.typicode.com/umeshuhb/shoppers-list-db';
    
 
     const fetchProducts = async()=> {

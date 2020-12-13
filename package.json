@@ -1,5 +1,6 @@
 {
   "name": "react-shoppers-list",
+  "homepage":"https://umeshuhb.github.io/react-shoppers-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,8 +17,10 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "jsonserver": "npx json-server --watch db.json --port 3301",
+    "server": "npx json-server --watch public/db.json --port 3001",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

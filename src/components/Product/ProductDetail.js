@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
-const shoppingURL = 'http://localhost:3301';
+//const shoppingURL = 'http://localhost:3001';
+const shoppingURL = 'https://my-json-server.typicode.com/umeshuhb/shoppers-list-db';
     
 
 class ProductDetail extends Component {
