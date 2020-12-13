@@ -3,10 +3,18 @@ body{
 }
 .App {
   text-align: center;
-  width:90%;
+  width:100%;
   margin:0 auto;
 }
 
+.data-container{
+  width:80%;
+  padding:0% 10%;
+}
+.MuiInput-root {
+  position: relative;
+  display: inline-block;
+}
 pre{
   text-align: left;
 }
@@ -14,6 +22,37 @@ pre{
 
 @media (prefers-reduced-motion: no-preference) {
  
+}
+
+.header {
+  background-color: #5f8eeb;
+  min-height: 40px;
+  padding: 5px;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+ .header button{
+  color: white;
+  float: left;
+  padding: 5px 0 0;
+  margin: 10px;
+  width: 83px;
+  border:none;
+} 
+.header h2 {
+  margin: 0;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: normal;
+}
+.header span { display: inline-block; padding:5px}
+.header button span { padding: 0; display: inline-block; }
+.textButton{
+  margin: 0px 12px 0px 0;
+  display: inline-block;
+  line-height: 27px;
+  float: right;
 }
 
 .App-header {

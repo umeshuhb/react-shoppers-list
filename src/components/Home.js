@@ -31,7 +31,7 @@ const Home = (props)=>{
     const useStyles = makeStyles((theme) => ({
         formControl: {
           margin: theme.spacing(1),
-          minWidth: 120,
+          minWidth: 120    
         },
         selectEmpty: {
           marginTop: theme.spacing(2),
@@ -80,9 +80,9 @@ const Home = (props)=>{
     return (
       <div>            
 
-        <FormControl className={classes.formControl}>
-            
-       Category :     <Select
+        <div className="header"><span>Category :</span> 
+        <FormControl className={classes.formControl}>            
+            <Select
             labelId="demo-simple-select-label"
             id="demo-simple-select"
             value={category.id}        
@@ -94,14 +94,16 @@ const Home = (props)=>{
             
             </Select>
         </FormControl> 
+        </div>
 
-        <div className="flex-container">
+        <div className="data-container flex-container">
           {products.map( (product, idx) =>(
 
                  <ProductListItems key={idx} itemDetail={product} /> 
 
           ))}
         </div>
+        
       </div>
 
     )

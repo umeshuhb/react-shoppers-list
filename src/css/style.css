@@ -19,6 +19,7 @@
     max-width: 200px;
   }
 
+
   .product a {
       text-decoration: none;
       color: #000;
@@ -30,7 +31,6 @@
       margin:0 auto;
   }
   .product_details h2{
-    border-bottom: 1px solid #CCC;
     padding-bottom:15px;
   }
   .product_details{
