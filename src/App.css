@@ -31,6 +31,7 @@ pre{
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  box-shadow: 7px 0px 3px #000;
 }
  .header button{
   color: white;
